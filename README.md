@@ -82,7 +82,7 @@ TRAFFIC_CRASH_PROJECT/
 ---
 ## Dataset Notice
 
-The dataset CSV file has been excluded from the GitHub repository because of file size limitations. The project uses the SQLite database file for analysis and dashboard execution.
+The original CSV dataset and SQLite database files have been excluded from the GitHub repository due to large file size limitations.
 
 # How to Run the Project
 
